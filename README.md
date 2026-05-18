@@ -13,6 +13,6 @@ Ciência da Computação | CIn-UFPE
 
 📚 Interesse em Engenharia de Software, QA e Backend.
 
-LinkedIn: [Link]("https://www.linkedin.com/in/pedro-andrade-a90a41203/")
+LinkedIn:[LinkedIn](https://www.linkedin.com/in/pedro-andrade-a90a41203/)
 
 Email: p.eliasandrade04@gmail.com

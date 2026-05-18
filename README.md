@@ -1,16 +1,20 @@
-## Hi there 👋
+# Pedro Elias
 
-<!--
-**FtPedrinho/FtPedrinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Ciência da Computação no CIn-UFPE.
 
-Here are some ideas to get you started:
+## Tecnologias
+- Java
+- Python
+- JavaScript
+- Git
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interesses
+- Engenharia de Software
+- QA
+- Desenvolvimento Backend
+- Automação de Testes
+
+## Contato
+- LinkedIn
+- Email

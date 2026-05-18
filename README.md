@@ -1,22 +1,17 @@
 # Pedro Elias
 
-Estudante de Ciência da Computação no CIn-UFPE.
+Ciência da Computação | CIn-UFPE
 
-## Tecnologias
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## Techs
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35"/>
+</p>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+📚 Interesse em Engenharia de Software, QA e Backend.
 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-## Interesses
-- Engenharia de Software
-- QA
-- Desenvolvimento Backend
-- Automação de Testes
-
-## Contato
-- LinkedIn
-- Email
+[LinkedIn]("https://www.linkedin.com/in/pedro-andrade-a90a41203/")
+Email: p.eliasandrade04@gmail.com

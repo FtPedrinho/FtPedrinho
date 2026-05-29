@@ -1,18 +1,48 @@
 # Pedro Elias
 
-Ciência da Computação | CIn-UFPE
+Computer Science student at the Center for Informatics of the Federal University of Pernambuco (CIn-UFPE) and Outreach Director at the Software Engineering Academic League (SEAL).
 
-## Techs
+I am interested in Software Engineering, Software Quality, and the development of reliable and maintainable systems. I particularly enjoy working with software testing, test automation, agile methodologies, and software architecture. Through academic and extracurricular activities, I seek opportunities to collaborate, learn, and contribute to projects that create meaningful impact.
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35"/>
-</p>
+## Technologies
 
-📚 Interesse em Engenharia de Software, QA e Backend.
+### Languages
 
-LinkedIn: [Pedro Andrade](https://www.linkedin.com/in/pedro-andrade-a90a41203/)
+* Python
+* JavaScript
+* Java
+* C++
 
-Email: p.eliasandrade04@gmail.com
+### Front-end
+
+* React
+* HTML
+* CSS
+
+### Back-end
+
+* Node.js
+* Django
+
+### Databases
+
+* MySQL
+* Oracle Database
+* SQLite
+* MongoDB
+
+### Tools
+
+* Git
+* Google Workspace
+
+### Practices
+
+* Software Testing
+* Test Automation
+* Agile Methodologies
+
+## Contact
+
+* LinkedIn: [linkedin.com/in/pedro-andrade](https://www.linkedin.com/in/pedro-andrade-a90a41203/)
+* Email: [p.eliasandrade04@gmail.com](mailto:p.eliasandrade04@gmail.com)

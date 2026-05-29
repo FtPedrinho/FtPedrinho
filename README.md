@@ -1,6 +1,6 @@
 # Pedro Elias
 
-Computer Science student at the Center for Informatics of the Federal University of Pernambuco (CIn-UFPE) and Outreach Director at the Software Engineering Academic League (SEAL).
+Computer Science student at the Center for Informatics of the Federal University of Pernambuco (CIn-UFPE) and Director of Outreach at the Software Engineering Academic League (SEAL).
 
 I am interested in Software Engineering, Software Quality, and the development of reliable and maintainable systems. I particularly enjoy working with software testing, test automation, agile methodologies, and software architecture. Through academic and extracurricular activities, I seek opportunities to collaborate, learn, and contribute to projects that create meaningful impact.
 

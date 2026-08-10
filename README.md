@@ -1,41 +1,29 @@
 # Pedro Elias
 
-Computer Science student at the Center for Informatics of the Federal University of Pernambuco (CIn-UFPE) and Director of Outreach at the Software Engineering Academic League (SEAL).
+Computer Science student at the Center for Informatics (CIn-UFPE).
 
-I am interested in Software Engineering, Software Quality, and the development of reliable and maintainable systems. I particularly enjoy working with software testing, test automation, agile methodologies, and software architecture. Through academic and extracurricular activities, I seek opportunities to collaborate, learn, and contribute to projects that create meaningful impact.
+Interested in Software Engineering, Software Quality, and Artificial Intelligence, with a particular focus on software testing, test automation, requirements engineering, and software architecture. I enjoy building reliable and maintainable systems and exploring how AI can be applied to solve real-world problems.
 
 ## Technologies
+### Languages
 
-**Languages**
+Python · JavaScript · TypeScript · Java · C++ · Haskell
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
+### Development
 
-**Frameworks & Tools**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square\&logo=django)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+Django · React · Node.js · Express · REST APIs
 
 ### Databases
 
-* MySQL
-* Oracle Database
-* SQLite
-* MongoDB
+MySQL · SQLite · MongoDB · SQL
 
-### Tools
+### Engineering & Practices
 
-* Google Workspace
+Software Testing · Test Automation · Requirements Engineering · Software Architecture · Agile Methodologies · Git · Project Management · Technical Documentation · DevOps
 
-### Practices
+### Other
 
-* Software Testing
-* Test Automation
-* Agile Methodologies
+Artificial Intelligence · Excel · Teamwork · Proactivity · Problem Solving
 
 ## Contact
 

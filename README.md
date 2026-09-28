@@ -7,19 +7,19 @@ Interested in Software Engineering, Software Quality, and Artificial Intelligenc
 ## Technologies
 ### Languages
 
-Python · JavaScript · TypeScript · Java · C++ · Haskell
+Python · JavaScript · TypeScript · C# · Java · C++ · PHP · Haskell
 
 ### Development
 
-Django · React · Node.js · Express · REST APIs
+Django · React · Node.js · Express · REST APIs · Laravel · dotNET
 
 ### Databases
 
-MySQL · SQLite · MongoDB · SQL
+MySQL · SQLite · MongoDB · SQL · PostgreSQL
 
 ### Engineering & Practices
 
-Software Testing · Test Automation · Requirements Engineering · Software Architecture · Agile Methodologies · Git · Project Management · Technical Documentation · DevOps
+Software Testing · Test Automation · Requirements Engineering · Software Architecture · Agile Methodologies · Git · Project Management · Technical Documentation · DevOps · Docker
 
 ### Other
 
